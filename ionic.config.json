@@ -1,0 +1,7 @@
+{
+  "name": "goons-tracker",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}

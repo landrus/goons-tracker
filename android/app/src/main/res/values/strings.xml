@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">PvE Goons Tracker</string>
+    <string name="title_activity_main">PvE Goons Tracker</string>
+    <string name="package_name">ch.landrus.mobile</string>
+    <string name="custom_url_scheme">ch.landrus.mobile</string>
+</resources>
